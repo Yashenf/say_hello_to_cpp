@@ -1,0 +1,3 @@
+D:/university of vavuniya/BICT/Sem 01/c++ prf/hello_to_c++/cmake-build-debug/CMakeFiles/hello_to_c__.dir
+D:/university of vavuniya/BICT/Sem 01/c++ prf/hello_to_c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/university of vavuniya/BICT/Sem 01/c++ prf/hello_to_c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
